@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: proxmox translations\n"
 "Report-Msgid-Bugs-To: <support@proxmox.com>\n"
 "POT-Creation-Date: 2025-08-06 13:26+0200\n"
-"PO-Revision-Date: 2025-08-08 18:36+0900\n"
+"PO-Revision-Date: 2025-08-09 11:45+0900\n"
 "Last-Translator: NavyStack <137406386+Navystack@users.noreply.github.com>\n"
 "Language-Team: NavyStack <137406386+Navystack@users.noreply.github.com>\n"
 "Language: ko_KR\n"
@@ -42,7 +42,7 @@ msgstr "(없음)"
 
 #: proxmox-backup/www/config/SyncView.js:273
 msgid "(remote) store, remote, id, owner, direction"
-msgstr "(리모트) 스토리지, 리모트, ID, 소유자, 방향(direction)"
+msgstr "(리모트) 스토리지, 리모트, ID, 소유자, 위치"
 
 #: proxmox-widget-toolkit/src/window/FileBrowser.js:335
 msgid ".tar.zst"
@@ -3675,7 +3675,7 @@ msgstr "자릿수"
 #: pve-manager/www/manager6/grid/FirewallRules.js:266
 #: proxmox-backup/www/config/SyncView.js:310
 msgid "Direction"
-msgstr "방향(Direction)"
+msgstr "위치"
 
 #: proxmox-widget-toolkit/src/Schema.js:92
 #: proxmox-widget-toolkit/src/Utils.js:61
@@ -16532,7 +16532,6 @@ msgid "{0}% ({1} of {2})"
 msgstr "{0}% ({2} 중 {1})"
 
 #: proxmox-widget-toolkit/src/Utils.js:1122
-#, javascript-format
 msgid "{0}% of {1}"
 msgstr "{1} 중 {0}%"
 
